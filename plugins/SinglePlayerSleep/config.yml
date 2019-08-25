@@ -1,0 +1,9 @@
+# Change to false to stop auto-update-check.
+auto-update-check: true
+unrestrictedsleep: false
+namecolor: NONE
+cancelcolor: RED
+cancelbroadcast: true
+sleeplimit: 60
+debug: false
+lang: en_US

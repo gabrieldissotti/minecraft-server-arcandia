@@ -1,0 +1,26 @@
+[2019/08/24 23:10:46] You are running an unsupported version of CraftBukkit (Requires: v1_13_R2, Found:v1_14_R1). Please download a newer version. FactionMobs will not be enabled.
+[2019/08/24 23:10:46] com.gmail.scyntrus.fmob.VersionManager$VersionException: You are running an unsupported version of CraftBukkit (Requires: v1_13_R2, Found:v1_14_R1). Please download a newer version. FactionMobs will not be enabled.
+	at com.gmail.scyntrus.fmob.VersionManager.checkVersion(VersionManager.java:39)
+	at com.gmail.scyntrus.fmob.FactionMobs.onEnable(FactionMobs.java:116)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:352)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417)
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:461)
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:375)
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:449)
+	at net.minecraft.server.v1_14_R1.DedicatedServer.init(DedicatedServer.java:258)
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:776)
+	at java.lang.Thread.run(Thread.java:748)
+[2019/08/24 23:21:17] You are running an unsupported version of CraftBukkit (Requires: v1_13_R2, Found:v1_14_R1). Please download a newer version. FactionMobs will not be enabled.
+[2019/08/24 23:21:17] com.gmail.scyntrus.fmob.VersionManager$VersionException: You are running an unsupported version of CraftBukkit (Requires: v1_13_R2, Found:v1_14_R1). Please download a newer version. FactionMobs will not be enabled.
+	at com.gmail.scyntrus.fmob.VersionManager.checkVersion(VersionManager.java:39)
+	at com.gmail.scyntrus.fmob.FactionMobs.onEnable(FactionMobs.java:116)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:352)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417)
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:461)
+	at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:375)
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:449)
+	at net.minecraft.server.v1_14_R1.DedicatedServer.init(DedicatedServer.java:266)
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:775)
+	at java.lang.Thread.run(Thread.java:748)

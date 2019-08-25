@@ -1,0 +1,9 @@
+Speed:
+  Engine: 4
+  Boost: 5
+Blocks:
+  Max: 4500
+  Min: 1
+  requiredPercent: 65
+  requiredBlocks:
+  - 35
