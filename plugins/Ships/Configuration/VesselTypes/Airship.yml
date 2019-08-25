@@ -1,0 +1,13 @@
+Speed:
+  Engine: 2
+  Boost: 3
+Blocks:
+  Max: 3750
+  Min: 1
+  requiredPercent: 60
+  requiredBlocks:
+  - 35
+Fuel:
+  Fuels:
+  - 263,-1
+  TakeAmount: 1

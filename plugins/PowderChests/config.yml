@@ -1,0 +1,51 @@
+## BYTE PowderChests config File
+
+## Welcome to the powderchest plugin designed for www.byte.org.uk be careful how you edit the following details use a yaml editor if you do have to edit this file.
+
+
+################## world settings #########################
+
+##Enabled worlds
+worlds:
+  - world
+  - world_nether
+  - world_the_end
+
+################## Item Explosive power #########################
+
+##amount of power per item in chest
+
+##Power per tnt item
+tntPower: 2
+
+##power per gunpowder item
+gunPowderPower: 1
+
+
+############ Explosion Power and item amount ranges ############
+
+##if power if over 20 = range 1 if power over 60 = range 3 etc
+range1: 20
+range2: 40
+range3: 60
+range4: 80
+range5: 100
+range6: 120
+range7: 140
+range8: 160
+range9: 180
+range10: 200
+
+
+##power of explosion for each range above - cumulative.
+
+power1: 1.0
+power2: 1.5
+power3: 2.0
+power4: 2.5
+power5: 3.0
+power6: 3.5
+power7: 4.0
+power8: 4.5
+power9: 5.0
+power10: 5.5

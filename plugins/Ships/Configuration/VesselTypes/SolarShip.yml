@@ -1,0 +1,11 @@
+ShipsData:
+  Config:
+    Speed:
+      Engine: 2
+      Boost: 3
+    Blocks:
+      Max: 4000
+      Min: 200
+    Fuel:
+      MaxLimitPerCell: 100
+      Consumption: 10
