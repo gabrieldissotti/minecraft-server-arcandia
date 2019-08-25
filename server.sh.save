@@ -1,0 +1,3 @@
+screen -S "(iClouds)" -X stuff 'java -Xmx3400M -Xms3400M -jar server.jar nogui\n';
+
+screen -r

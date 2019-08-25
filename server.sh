@@ -1,0 +1,1 @@
+screen -dmS minecraft_server bash -c "cd /home/admin/games/minecraft/iclouds/server/ && java -Xmx3400M -Xms3400M -jar server.jar nogui" && screen -ls && echo 'Run screen -r [screen_id] to open screen server'
