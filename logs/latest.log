@@ -1,30 +1,25 @@
-[00:00:49] [Server thread/INFO]: <marcosdissotti> quantas?
-[00:00:58] [Server thread/INFO]: <Kiriku> umas 30 kk
-[00:01:04] [Server thread/INFO]: <marcosdissotti> blz
-[00:01:37] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/57129, l='iMinecraft', x=-589.44, y=46.00, z=260.17]
-[00:04:29] [Server thread/INFO]: <marcosdissotti> ta ki kk
-[00:04:51] [Server thread/INFO]: <Kiriku> cade o resto kk
-[00:04:54] [Server thread/INFO]: <marcosdissotti> zuera kk
-[00:05:00] [Server thread/INFO]: <Kiriku> ata kkkk
-[00:05:50] [Server thread/INFO]: <marcosdissotti> deu certo
-[00:07:28] [Server thread/INFO]: <Kiriku> tem madeira aí?kk
-[00:07:37] [Server thread/INFO]: <Kiriku> vamos precisar de muitas
-[00:07:38] [Server thread/INFO]: <marcosdissotti> nope
-[00:08:52] [Server thread/INFO]: <Kiriku> manda a madeira kk
-[00:08:58] [Server thread/INFO]: <marcosdissotti> tenho n
-[00:09:05] [Server thread/INFO]: <Kiriku> ferrou kk
-[00:09:53] [Server thread/INFO]: <Kiriku> precisamos de 120 taboas kk
-[00:10:00] [Server thread/INFO]: <marcosdissotti> blz
-[00:10:56] [Server thread/INFO]: <Kiriku> bora dormir
-[00:11:35] [Server thread/INFO]: <marcosdissotti> pode sair
-[00:12:31] [Server thread/INFO]: <Kiriku> marcão
-[00:12:35] [Server thread/INFO]: <Kiriku> vou precisar sair
-[00:12:37] [Server thread/INFO]: <marcosdissotti> oi
-[00:12:41] [Server thread/INFO]: <marcosdissotti> blz
-[00:12:48] [Server thread/INFO]: <marcosdissotti> dps nois continua
-[00:13:00] [Server thread/INFO]: <Kiriku> tu quer terminar ou terminanos amanhã?
-[00:13:09] [Server thread/INFO]: <marcosdissotti> pode ser amanha kkk
-[00:13:15] [Server thread/INFO]: <marcosdissotti> to cansadao tbm
-[00:13:36] [Server thread/INFO]: <Kiriku> beleza
-[00:13:48] [Server thread/INFO]: <Kiriku> até amanhã mano
-[00:13:49] [Server thread/INFO]: <marcosdissotti> flw mano
+[02:34:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:34:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:34:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:34:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:34:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:34:52] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[02:34:52] [Server thread/INFO]: Loading properties
+[02:34:52] [Server thread/INFO]: Default game type: SURVIVAL
+[02:34:52] [Server thread/INFO]: Generating keypair
+[02:34:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:34:53] [Server thread/INFO]: Using epoll channel type
+[02:34:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:34:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:34:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:34:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:34:53] [Server thread/INFO]: Preparing level "iMinecraft"
+[02:34:53] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:34:55] [Server thread/INFO]: Loaded 6 recipes
+[02:34:56] [Server thread/INFO]: Loaded 811 advancements
+[02:34:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:35:01] [Server thread/INFO]: Preparing spawn area: 0%
+[02:35:01] [Server thread/INFO]: Preparing spawn area: 0%
+[02:35:01] [Server thread/INFO]: Preparing spawn area: 0%
+[02:35:01] [Server thread/INFO]: Preparing spawn area: 0%
+[02:35:01] [Server thread/INFO]: Preparing spawn area: 0%
