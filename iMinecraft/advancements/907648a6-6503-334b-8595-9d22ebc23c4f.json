@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2019-08-28 03:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-20 02:44:58 +0000"
@@ -128,6 +134,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2019-08-20 02:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-08-27 02:51:57 +0000"
     },
     "done": true
   },
@@ -221,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-27 17:01:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-08-19 12:44:44 +0000"
@@ -248,6 +266,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-08-22 23:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-08-27 02:51:57 +0000"
     },
     "done": true
   },
@@ -326,6 +350,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-08-21 23:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-08-27 17:01:42 +0000"
     },
     "done": true
   },
@@ -546,6 +576,7 @@
     "criteria": {
       "minecraft:pillager": "2019-08-20 03:34:02 +0000",
       "minecraft:skeleton": "2019-08-20 03:34:42 +0000",
+      "minecraft:zombie_pigman": "2019-08-27 23:52:53 +0000",
       "minecraft:ravager": "2019-08-21 02:11:31 +0000",
       "minecraft:guardian": "2019-08-23 03:14:13 +0000",
       "minecraft:vindicator": "2019-08-20 03:41:44 +0000",
@@ -623,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2019-08-26 22:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-08-20 02:43:36 +0000"
@@ -656,6 +693,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2019-08-20 22:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-28 03:30:49 +0000"
     },
     "done": true
   },
@@ -791,6 +834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-28 03:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-20 02:44:58 +0000"
@@ -818,6 +867,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2019-08-21 01:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-08-27 16:42:40 +0000"
     },
     "done": true
   },
@@ -1043,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-28 03:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2019-08-20 02:43:36 +0000"
@@ -1185,6 +1246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2019-08-27 02:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2019-08-21 00:11:33 +0000"
@@ -1305,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-08-26 22:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 03:51:04 +0000"
@@ -1401,6 +1474,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-27 23:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2019-08-20 05:10:20 +0000"
@@ -1485,6 +1564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2019-08-28 03:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 04:07:05 +0000"
@@ -1557,6 +1642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2019-08-28 03:26:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2019-08-20 23:34:18 +0000"
@@ -1589,9 +1680,11 @@
       "baked_potato": "2019-08-20 05:12:53 +0000",
       "apple": "2019-08-20 03:14:56 +0000",
       "potato": "2019-08-22 02:09:52 +0000",
+      "cooked_cod": "2019-08-27 22:46:02 +0000",
       "mutton": "2019-08-20 15:40:10 +0000",
       "bread": "2019-08-20 02:46:35 +0000",
       "salmon": "2019-08-21 02:08:12 +0000",
+      "cooked_chicken": "2019-08-27 21:48:38 +0000",
       "cod": "2019-08-22 03:50:31 +0000",
       "carrot": "2019-08-20 03:23:15 +0000"
     },
@@ -1753,6 +1846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2019-08-26 22:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-21 00:02:18 +0000"
@@ -1781,6 +1880,8 @@
     "criteria": {
       "minecraft:sheep": "2019-08-20 05:47:19 +0000",
       "minecraft:cow": "2019-08-20 05:47:36 +0000",
+      "minecraft:chicken": "2019-08-26 22:28:10 +0000",
+      "minecraft:wolf": "2019-08-27 22:45:06 +0000",
       "minecraft:horse": "2019-08-22 23:24:04 +0000"
     },
     "done": false
@@ -1830,6 +1931,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-08-20 02:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-08-27 02:51:57 +0000"
     },
     "done": true
   },
@@ -2007,9 +2114,27 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-27 23:53:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-20 04:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_at_least_9_packed_ice": "2019-08-28 02:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2019-08-27 17:00:17 +0000"
     },
     "done": true
   },
@@ -2493,6 +2618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2019-08-28 03:30:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-08-21 00:35:22 +0000"
@@ -2586,6 +2717,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-20 03:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2019-08-28 03:30:49 +0000"
     },
     "done": true
   },
