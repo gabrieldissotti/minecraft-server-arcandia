@@ -4,5 +4,29 @@
     "name": "Gabriel",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7c73299d-39b8-3a9f-8606-b2cf0423cf2b",
+    "name": "Capetinha123",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "12d50867-680c-39fc-bafb-4fa14fcc7e6e",
+    "name": "thawanzinho",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "907648a6-6503-334b-8595-9d22ebc23c4f",
+    "name": "Elpintkazz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9423bc56-ea4d-353b-891e-d40504e8854b",
+    "name": "marcosdissotti",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

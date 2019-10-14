@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-08-31 20:00:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2019-08-18 22:10:30 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-18 23:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-08-31 20:00:19 +0000"
     },
     "done": true
   },
@@ -1112,7 +1124,9 @@
       "minecraft:snowy_mountains": "2019-08-25 19:40:12 +0000",
       "minecraft:forest": "2019-08-18 21:46:56 +0000",
       "minecraft:mountains": "2019-08-19 23:52:50 +0000",
+      "minecraft:mushroom_fields": "2019-08-31 20:05:14 +0000",
       "minecraft:taiga": "2019-08-18 21:50:18 +0000",
+      "minecraft:giant_tree_taiga": "2019-08-31 20:02:55 +0000",
       "minecraft:snowy_tundra": "2019-08-22 00:57:35 +0000",
       "minecraft:taiga_hills": "2019-08-18 21:50:31 +0000",
       "minecraft:desert": "2019-08-22 00:52:17 +0000",
@@ -1127,6 +1141,7 @@
       "minecraft:wooded_mountains": "2019-08-19 23:55:25 +0000",
       "minecraft:wooded_hills": "2019-08-18 21:46:24 +0000",
       "minecraft:stone_shore": "2019-08-22 00:53:42 +0000",
+      "minecraft:mushroom_field_shore": "2019-08-31 20:05:09 +0000",
       "minecraft:swamp": "2019-08-22 00:52:09 +0000",
       "minecraft:plains": "2019-08-18 22:01:26 +0000"
     },
@@ -1195,6 +1210,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2019-08-20 04:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-08-31 20:00:19 +0000"
     },
     "done": true
   },
@@ -1737,6 +1758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2019-08-31 20:00:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2019-08-19 01:35:37 +0000"
@@ -1986,6 +2013,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2019-08-18 21:50:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-08-31 20:00:19 +0000"
     },
     "done": true
   },
@@ -2485,6 +2518,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-08-25 19:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-08-31 20:00:19 +0000"
     },
     "done": true
   },
